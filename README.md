@@ -1,1 +1,1 @@
-# didactic-fortnight
+# tic-tac-toe
